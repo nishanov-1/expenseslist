@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+body {
+  background: white);
+}
+.container {
+  width: 1300px;
+  margin: 0 auto;
+}
